@@ -1,1 +1,5 @@
+
 user log
+2019-06-15
+Created public repo for submission of ai s.e.a challenge entry for the safety
+challenge
